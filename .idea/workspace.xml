@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9ec4c2c-43ef-4406-86b6-f548059a2ab8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/Features/SeachForAPropertyToBuy.feature" afterPath="$PROJECT_DIR$/src/test/Features/SeachForAPropertyToBuy.feature" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -67,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/Features/SeachForAPropertyToBuy.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
-              <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+              <caret line="2" column="58" lean-forward="false" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -1155,7 +1153,7 @@
       <workItem from="1503290391605" duration="1834000" />
       <workItem from="1503294341527" duration="728000" />
       <workItem from="1503383179626" duration="943000" />
-      <workItem from="1503416121709" duration="3074000" />
+      <workItem from="1503416121709" duration="3675000" />
     </task>
     <servers />
   </component>
@@ -1177,7 +1175,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6579000" />
+    <option name="totallyTimeSpent" value="7180000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
@@ -1710,7 +1708,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/Features/SeachForAPropertyToBuy.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
-          <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          <caret line="2" column="58" lean-forward="false" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
           <folding />
         </state>
       </provider>
