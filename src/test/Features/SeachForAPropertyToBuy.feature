@@ -1,6 +1,6 @@
 # Created by NhatDell at 06-Jul-17
 Feature: Search for a property
-This feature is used for testing " Search for a property "
+This feature is used for testing "Search for a property"
 
   Scenario: Search for a property to buy in Milton Keynes, min 2 bed, max 3 bed, price below £300,000.
     Given I navigate to home page
