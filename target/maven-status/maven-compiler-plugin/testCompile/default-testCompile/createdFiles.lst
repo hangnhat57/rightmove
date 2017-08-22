@@ -1,0 +1,8 @@
+POM\PropertySearchPage.class
+POM\ResultsPage.class
+Tranformer\PriceTranform.class
+POM\HomePage.class
+Steps\MyStepdefs.class
+Base\BaseUtils.class
+Runner\TestRunner.class
+Steps\Hook.class
