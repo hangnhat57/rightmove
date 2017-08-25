@@ -8,12 +8,12 @@ formatter.feature({
   ],
   "line": 2,
   "name": "Search for a property",
-  "description": "This feature is used for testing \" Search for a property \"",
+  "description": "This feature is used for testing \"Search for a propertyyyy\"",
   "id": "search-for-a-property",
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 3075321113,
+  "duration": 3423905376,
   "status": "passed"
 });
 formatter.scenario({
@@ -63,7 +63,7 @@ formatter.match({
   "location": "MyStepdefs.iNavigateToHomePage()"
 });
 formatter.result({
-  "duration": 3902222372,
+  "duration": 6241459200,
   "status": "passed"
 });
 formatter.match({
@@ -76,14 +76,14 @@ formatter.match({
   "location": "MyStepdefs.iEnterMiltonKeynesAsLocationToSearch(String)"
 });
 formatter.result({
-  "duration": 724981292,
+  "duration": 984242884,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.iClickOnForSaleButton()"
 });
 formatter.result({
-  "duration": 2713737873,
+  "duration": 4699384552,
   "status": "passed"
 });
 formatter.match({
@@ -100,7 +100,7 @@ formatter.match({
   "location": "MyStepdefs.iEnterPriceRangeFromTo(String,String)"
 });
 formatter.result({
-  "duration": 617898217,
+  "duration": 650706609,
   "status": "passed"
 });
 formatter.match({
@@ -117,14 +117,14 @@ formatter.match({
   "location": "MyStepdefs.iEnterNoOfBedroomsFromTo(String,String)"
 });
 formatter.result({
-  "duration": 328270995,
+  "duration": 310943533,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.iClickFindPropertyButton()"
 });
 formatter.result({
-  "duration": 4669693525,
+  "duration": 4775810879,
   "status": "passed"
 });
 formatter.match({
@@ -137,11 +137,11 @@ formatter.match({
   "location": "MyStepdefs.iShouldGetTheResultsForPropertiesForSaleInMiltonKeynesBuckinghamshireUpToÂ£Bed(String)"
 });
 formatter.result({
-  "duration": 137128197,
+  "duration": 141145970,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1251226979,
+  "duration": 1276729014,
   "status": "passed"
 });
 });

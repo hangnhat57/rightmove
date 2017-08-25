@@ -12,7 +12,7 @@
         "before": [
           {
             "result": {
-              "duration": 3075321113,
+              "duration": 3423905376,
               "status": "passed"
             },
             "match": {
@@ -27,7 +27,7 @@
         "after": [
           {
             "result": {
-              "duration": 1251226979,
+              "duration": 1276729014,
               "status": "passed"
             },
             "match": {
@@ -40,7 +40,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3902222372,
+              "duration": 6241459200,
               "status": "passed"
             },
             "line": 6,
@@ -52,7 +52,7 @@
           },
           {
             "result": {
-              "duration": 724981292,
+              "duration": 984242884,
               "status": "passed"
             },
             "line": 7,
@@ -70,7 +70,7 @@
           },
           {
             "result": {
-              "duration": 2713737873,
+              "duration": 4699384552,
               "status": "passed"
             },
             "line": 8,
@@ -82,7 +82,7 @@
           },
           {
             "result": {
-              "duration": 617898217,
+              "duration": 650706609,
               "status": "passed"
             },
             "line": 9,
@@ -104,7 +104,7 @@
           },
           {
             "result": {
-              "duration": 328270995,
+              "duration": 310943533,
               "status": "passed"
             },
             "line": 10,
@@ -126,7 +126,7 @@
           },
           {
             "result": {
-              "duration": 4669693525,
+              "duration": 4775810879,
               "status": "passed"
             },
             "line": 11,
@@ -138,7 +138,7 @@
           },
           {
             "result": {
-              "duration": 137128197,
+              "duration": 141145970,
               "status": "passed"
             },
             "line": 12,
@@ -158,7 +158,7 @@
       }
     ],
     "name": "Search for a property",
-    "description": "This feature is used for testing \" Search for a property \"",
+    "description": "This feature is used for testing \"Search for a propertyyyy\"",
     "id": "search-for-a-property",
     "keyword": "Feature",
     "uri": "SeachForAPropertyToBuy.feature"
