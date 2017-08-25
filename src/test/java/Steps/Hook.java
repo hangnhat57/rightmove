@@ -37,7 +37,7 @@ public class Hook extends BaseUtils {
     public void endTestCase(Scenario result) throws URISyntaxException, IOException {
 
 
-                final byte[] screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
+                final byte[] screenshot = ((TakesScreenshot) base.driver).getScreenshotAs(OutputType.BYTES);
                 result.embed(screenshot, "image/png");
 
                  base.driver.quit();
