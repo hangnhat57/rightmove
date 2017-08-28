@@ -19,8 +19,3 @@ This feature is used for testing "Search for a propertyyyy"
     And I click login button
     Then I should at checkpoint page
 
-Feature: Go to covesta page
-  @facebook
-  Scenario: Go to Covesta page
-    Given  I navigate to covesta page
-    And I should see the homepage
