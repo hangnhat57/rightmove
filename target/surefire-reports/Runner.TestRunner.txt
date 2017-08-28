@@ -1,4 +1,7 @@
 -------------------------------------------------------------------------------
 Test set: Runner.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.418 s - in Runner.TestRunner
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.902 s <<< FAILURE! - in Runner.TestRunner
+initializationError(Runner.TestRunner)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoSuchMethodError: cucumber.runtime.RuntimeOptions.getJunitOptions()Ljava/util/List;
+
