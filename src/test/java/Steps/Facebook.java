@@ -35,18 +35,18 @@ public class Facebook extends BaseUtils{
     @And("^I enter password$")
     public void iEnterPassword() throws Throwable {
         // Write code here that turns the phrase above into concrete actions
-        base.driver.findElement(By.xpath("//*[@data-testid=\"royal_pass\"]")).sendKeys("123456");
+        base.driver.findElement(By.xpath("//input[@data-testid='royal_pass']")).sendKeys("123456");
     }
 
     @And("^I enter username$")
     public void iEnterUsername() throws Throwable {
         // Write code here that turns the phrase above into concrete actions
-        base.driver.findElement(By.xpath("//*[@data-testid=\"royal_email\"]")).sendKeys("hangnhat57@me.com");
+        base.driver.findElement(By.xpath("//input[@data-testid='royal_email']")).sendKeys("hangnhat57@me.com");
     }
 
     @And("^I click login button$")
     public void iClickLoginButton() throws Throwable {
-        base.driver.findElement(By.xpath("//*[@data-testid=\"royal_login_button\"]")).click();
+        base.driver.findElement(By.xpath("//input[@data-testid='royal_login_button']")).click();
 
     }
 }
