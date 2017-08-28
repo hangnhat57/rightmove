@@ -16,5 +16,6 @@
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:3.4.0" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:3.4.0" level="project" />
     <orderEntry type="library" name="Maven: commons-io:commons-io:2.5" level="project" />
+    <orderEntry type="library" name="Maven: net.serenity-bdd:serenity-cucumber:1.1.1" level="project" />
   </component>
 </module>
