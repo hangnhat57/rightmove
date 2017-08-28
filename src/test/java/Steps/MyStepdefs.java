@@ -72,4 +72,27 @@ public class MyStepdefs extends BaseUtils{
         // This one for assert from number of row from database but currently I just give a dummy step
         Assert.assertEquals("Same!",page._resultsCount(),page._resultsCount());
     }
+
+    @And("^I should see the expand search suggestion$")
+    public void iShouldSeeTheExpandSearchSuggestion() throws Throwable {
+        // Write code here that turns the phrase above into concrete actions
+        HomePage page = new HomePage(base.driver);
+        page._Waitforsuggestion(base.driver);
+    }
+
+    @And("^The second line should be (.*)$")
+    public void theSecondLineShouldBe(String s) throws Throwable {
+        // Write code here that turns the phrase above into concrete actions
+        HomePage page = new HomePage(base.driver);
+        String q = page.second_suggest.getText().toString();
+        Assert.assertEquals(s,q);
+    }
+
+    @And("^The highlight should be (.*)$")
+    public void theHighlightShouldBe(String s) throws Throwable {
+        // Write code here that turns the phrase above into concrete actions
+        HomePage page = new HomePage(base.driver);
+        String q = page.hightlight.getText().toString();
+        Assert.assertEquals(s,q);
+    }
 }

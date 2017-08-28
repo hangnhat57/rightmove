@@ -1,5 +1,6 @@
 POM\PropertySearchPage.class
 POM\ResultsPage.class
+Steps\Facebook.class
 Tranformer\PriceTranform.class
 POM\HomePage.class
 Steps\MyStepdefs.class
