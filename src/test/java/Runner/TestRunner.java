@@ -2,14 +2,9 @@ package Runner;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
-import net.serenitybdd.cucumber.CucumberWithSerenity;
-import org.apache.commons.io.FileUtils;
-import org.junit.runner.RunWith;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
 
-import java.io.File;
-import java.io.IOException;
+import org.junit.runner.RunWith;
+
 
 /**
  * Created by NhatDell on 06-Jul-17.
