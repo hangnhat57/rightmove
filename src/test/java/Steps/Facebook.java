@@ -62,7 +62,7 @@ public class Facebook extends BaseUtils{
     public void iShouldSeeTheHomepage() throws Throwable {
         // Write code here that turns the phrase above into concrete actions
         WebDriverWait wait = new WebDriverWait(base.driver,30);
-        wait.until(ExpectedConditions.attributeToBe(By.id("loader-wrapper"),"style","display:none;"));
+        wait.until(ExpectedConditions.attributeToBe(By.id("loader-wrapper"),"style","display: none;"));
         base.driver.findElement(By.partialLinkText("Log")).click();
     }
 }
