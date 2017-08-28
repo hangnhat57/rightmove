@@ -2,6 +2,7 @@
 Feature: Search for a property
 This feature is used for testing "Search for a propertyyyy"
 
+  @regression
   Scenario: Search for a property to buy in Milton Keynes, min 2 bed, max 3 bed, price below £300,000.
     Given I navigate to home page
     And I enter Milton Keynes as location to search
